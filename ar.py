@@ -33,7 +33,7 @@ session = requests.session()
 session.proxies = proxy  # UNCOMMENT IT AFTER PROXIES
 
 # Объект бота
-bot = Bot(token="2097370074:AAGytzalKs3HPOrenpXaenKkN-VK1oVdkaA")
+bot = Bot(token="2097370074:AAGIjDYPhyFm2XuI4SaW_TwIuYQZsKmrLM4")
 # Диспетчер для бота
 dp = Dispatcher(bot)
 # Включаем логирование, чтобы не пропустить важные сообщения
